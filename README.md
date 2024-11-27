@@ -1,0 +1,1 @@
+Aplicação em python com objetivo de exibir a mensagem "Hello, DevOps!"
